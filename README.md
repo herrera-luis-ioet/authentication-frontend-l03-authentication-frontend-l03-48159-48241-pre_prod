@@ -1,1 +1,3 @@
-# authentication-frontend-l03-authentication-frontend-l03-48159-48241-pre_prod
+# Project Repository
+
+This is the initial README file for the project.
